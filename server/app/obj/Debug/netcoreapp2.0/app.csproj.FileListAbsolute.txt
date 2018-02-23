@@ -1,0 +1,10 @@
+C:\Users\mmontenegro\Documents\Repositories\monte_stacks\stack_one\server\app\bin\Debug\netcoreapp2.0\app.deps.json
+C:\Users\mmontenegro\Documents\Repositories\monte_stacks\stack_one\server\app\bin\Debug\netcoreapp2.0\app.runtimeconfig.json
+C:\Users\mmontenegro\Documents\Repositories\monte_stacks\stack_one\server\app\bin\Debug\netcoreapp2.0\app.runtimeconfig.dev.json
+C:\Users\mmontenegro\Documents\Repositories\monte_stacks\stack_one\server\app\bin\Debug\netcoreapp2.0\app.dll
+C:\Users\mmontenegro\Documents\Repositories\monte_stacks\stack_one\server\app\bin\Debug\netcoreapp2.0\app.pdb
+C:\Users\mmontenegro\Documents\Repositories\monte_stacks\stack_one\server\app\obj\Debug\netcoreapp2.0\app.csproj.CoreCompileInputs.cache
+C:\Users\mmontenegro\Documents\Repositories\monte_stacks\stack_one\server\app\obj\Debug\netcoreapp2.0\app.AssemblyInfoInputs.cache
+C:\Users\mmontenegro\Documents\Repositories\monte_stacks\stack_one\server\app\obj\Debug\netcoreapp2.0\app.AssemblyInfo.cs
+C:\Users\mmontenegro\Documents\Repositories\monte_stacks\stack_one\server\app\obj\Debug\netcoreapp2.0\app.dll
+C:\Users\mmontenegro\Documents\Repositories\monte_stacks\stack_one\server\app\obj\Debug\netcoreapp2.0\app.pdb
